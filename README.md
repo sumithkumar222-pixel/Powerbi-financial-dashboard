@@ -14,7 +14,7 @@ This project is a simple and beginner-friendly Power BI dashboard built using th
 - **Financial Sample.xlsx** – Dataset used for the dashboard
 - **README.md** – Project documentation
 
-## 🚀 How to Use
+##  How to Use
 1. Download the `.pbix` file
 2. Open it in **Power BI Desktop**
 3. Explore the visuals and interact with the slicers
@@ -25,4 +25,3 @@ Microsoft Financial Sample Dataset
 
 ---
 
-Feel free to fork, clone, or use this dashboard for learning purposes.
